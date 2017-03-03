@@ -11,6 +11,20 @@ title: Activiti
 
 <h2>Activiti相关博文</h2>
 <ul>
+    <li><a href="/activiti/2015/12/27/integrate-new-activiti-modeler-and-rest.html">集成新版(5.17+)Activiti Modeler与Rest服务</a></li>
+	<li><a href="/activiti/2014/04/24/diagram-viewer.html">集成Diagram Viewer跟踪流程</a></li>
+	<li><a href="/activiti/2014/04/18/activiti-with-jpa.html">在Activiti中集成JPA（解决动态表单生成的大量数据）</a></li>
+	<li><a href="/activiti/2014/01/23/analyse-activity.html">剖析Activiti的Activity</a></li>
+    <li><a href="/activiti/2013/08/30/using-uuid-as-primary-key-in-activiti.html">在Activiti中使用UUID作为主键生成策略</a></li>
+	<li><a href="/activiti/2013/05/27/dynamic-process-creation-and-deployment-in-100-lines.html">利用100行代码动态创建并部署流程</a></li>
+	<li><a href="/activiti/2013/04/19/about-process-egine-and-configuration.html">谈谈Activiti的引擎与引擎配置对象</a></li>
+    <li><a href="/activiti/2013/04/05/activiti-5-12-x.html">Activiti 5.12.X 衍生版本发布</a></li>
+	<li><a href="/activiti/2013/03/23/activiti-designer-5-12-release.html">Activiti Designer 5.12.0 发布</a></li>
+    <li><a href="/activiti/2013/03/10/kft-activiti-demo-release-1-7.html">Activiti快速入门项目kft-activiti-demo 1.7.0版本发布</a></li>
+    <li><a href="/activiti/2013/03/10/integrate-activiti-modeler.html">整合Activiti Modeler到业务系统（或BPM平台）</a></li>
+    <li><a href="/activiti/2013/03/06/activiti-5-12-release.html">Activiti 5.12发布</a></li>
+    <li><a href="/activiti/2013/02/14/improve-performance-for-reading-diagram.html">利用静态服务提升读取Activiti流程图的性能</a></li>
+    <li><a href="/activiti/2013/01/12/kft-activiti-demo-rest.html">如何使用Activiti Rest模块</a></li>
     <li><a href="/activiti/2012/12/15/kft-activiti-1-5-release.html">kft-activiti-demo 1.5.0 发布</a></li>
     <li><a href="/activiti/2012/12/05/activiti-5-11-release.html">Activiti 5.11发布</a></li>
     <li><a href="/activiti/2012/10/22/activiti-5.10-deploy-bpmn-directly.html">Activiti 5.10支持直接部署扩展名为bpmn的流程文件</a></li>
@@ -38,7 +52,15 @@ title: Activiti
 	<li>本项目托管在著名的Github，地址：<a href="https://github.com/henryyan/kft-activiti-demo">https://github.com/henryyan/kft-activiti-demo</a> 。</li>
 	<li>参考WIKI：<a href="https://github.com/henryyan/kft-activiti-demo/wiki">https://github.com/henryyan/kft-activiti-demo/wiki</a> </li>
 </ul>
-
 <div>
 	<img src="/files/2012/05/kft-activiti-demo.png" alt="kft-activiti-demo" />
 </div>
+
+## Activiti中文论坛
+为了方便国内Activiti开发者交流，把交流的结果沉淀下来方便新人学习，**Activiti中文论坛**与2013年5月20日建立。
+
+论坛网址：[http://www.activiti-cn.org](http://www.activiti-cn.org)
+
+开放注册方式：Email、QQ、微博（建议用微博或者QQ互联），点**[这里](http://www.activiti-cn.org/member.php?mod=register)**注册。
+
+![Activiti中文论坛](/files/2013/05/forums-large.png)
